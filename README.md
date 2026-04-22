@@ -129,13 +129,21 @@ Meteo Health combines:
 
 ---
 
-## 📸 Screens (Concept)
+## 📱 App Preview
 
-- Dashboard (pressure + alerts)
-- Predictions (personal insights)
-- History (entries + charts)
-- Weather detail (extended forecast)
-- Settings (data + preferences)
+<p align="center">
+  <img src="./assets/home.png" width="250" />
+  <img src="./assets/entry.png" width="250" />
+  <img src="./assets/weather.png" width="250" />
+</p>
+
+---
+
+## 🌐 Full Demo & Details
+
+👉 See full presentation with videos, features and UX breakdown:
+
+🔗 https://meteo-mind.vercel.app/
 
 ---
 
