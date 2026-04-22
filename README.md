@@ -159,3 +159,27 @@ Meteo Health combines:
 
 ## ⚙️ Installation
 
+### 📱 Try the app (Preview APK)
+
+You can install a preview version of the app directly on your Android device:
+
+👉 Download APK:  
+https://expo.dev/accounts/krejzy23/projects/meteo-app/builds/1dcac20c-ed7a-4e48-b412-2f9011c869fc
+
+Or scan the QR code:
+
+<p align="center">
+  <img src="./assets/qr.png" width="250" />
+</p>
+
+> ⚠️ This is a preview build distributed via Expo (not from Google Play).
+
+---
+
+### 🧪 Run locally
+
+```bash
+git clone https://github.com/your-username/meteo-health.git
+cd meteo-health
+npm install
+npm start
